@@ -1,0 +1,91 @@
+body {
+  background-color: #eff8ff;
+}
+
+.summer-head {
+  color: #4169E1;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+.summer-sub-head {
+  color: #FA8072;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+.summer-nav-font {
+  font-size: 28px;
+}
+
+.summer-visit-counter {
+  color: #000000;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  padding-top: 250px;
+  text-align: center;
+}
+
+.summer-date {
+  color: #000000;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.summer-container {
+  max-width: 1600px;
+  margin: auto;
+}
+
+.summer-footer-container {
+  margin: auto;
+  padding: 50px;
+  width: 550px;
+}
+
+.summer-footer-element {
+  display: inline;
+  text-align: center;
+  padding: 10px;
+}
+
+.summer-skills {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 18px;
+  padding: 100px;
+}
+
+.summer-skill-right {
+  width: 650px;
+  float: right;
+}
+
+.summer-projects {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 15px;
+  padding: 100px;
+}
+
+.summer-home-container {
+  height: auto;
+  overflow: hidden;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 32px;
+}
+
+.summer-home-right {
+  width: 350px;
+  float: right;
+}
+
+.summer-home-left {
+  float: none; 
+  width: auto;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}​​
